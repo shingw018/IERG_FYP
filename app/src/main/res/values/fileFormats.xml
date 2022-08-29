@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fileFormats">
+        <item>.txt</item>
+        <item>.html</item>
+        <item>.htm</item>
+        <item>.css</item>
+        <item>.js</item>
+        <item>.csv</item>
+        <item>.gif</item>
+        <item>.png</item>
+        <item>.jpeg</item>
+        <item>.jpg</item>
+        <item>.bmp</item>
+        <item>.webp</item>
+        <item>.mp4</item>
+        <item>.mp3</item>
+        <item>.pdf</item>
+        <item>.doc</item>
+        <item>.json</item>
+        <item>.php</item>
+        <item>.ppt</item>
+        <item>.pptx</item>
+        <item>.docx</item>
+    </string-array>
+</resources>
